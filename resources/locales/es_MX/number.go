@@ -1,8 +1,8 @@
-package es_MX
+package es_mx
 
 import "github.com/rannoch/cldr"
 
 var (
-	symbols = cldr.Symbols{}
-	formats = cldr.NumberFormats{Decimal: "0k", Currency: "", Percent: "#,##0%"}
+	symbols = cldr.Symbols{Decimal: ",", Group: ".", Negative: "-", Percent: "%", PerMille: "‰"}
+	formats = cldr.NumberFormats{Decimal: "#,##0.###", Currency: "¤#,##0.00;(¤#,##0.00)", Percent: "#,##0%"}
 )

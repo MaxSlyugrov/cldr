@@ -1,3 +1,3 @@
-package es_MX
+package es_mx
 
-var pluralRule = "1"
+var pluralRule = "2A"

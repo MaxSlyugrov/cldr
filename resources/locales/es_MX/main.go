@@ -1,9 +1,9 @@
-package es_MX
+package es_mx
 
 import "github.com/rannoch/cldr"
 
 var Locale = &cldr.Locale{
-	Locale: "es_MX",
+	Locale: "es",
 	Number: cldr.Number{
 		Symbols:    symbols,
 		Formats:    formats,
