@@ -1,4 +1,4 @@
-package es
+package es_mx
 
 import "github.com/rannoch/cldr"
 
@@ -160,7 +160,7 @@ var currencies = []cldr.Currency{
 	{Currency: "MUR", DisplayName: "rupia mauriciana", Symbol: "MUR"},
 	{Currency: "MVR", DisplayName: "rufiya", Symbol: "MVR"},
 	{Currency: "MWK", DisplayName: "kwacha malauí", Symbol: "MWK"},
-	{Currency: "MXN", DisplayName: "peso mexicano", Symbol: ""},
+	{Currency: "MXN", DisplayName: "peso mexicano", Symbol: "$"},
 	{Currency: "MXP", DisplayName: "peso de plata mexicano (1861–1992)", Symbol: ""},
 	{Currency: "MXV", DisplayName: "unidad de inversión (UDI) mexicana", Symbol: ""},
 	{Currency: "MYR", DisplayName: "ringit", Symbol: "MYR"},

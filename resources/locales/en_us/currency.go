@@ -1,4 +1,4 @@
-package en
+package en_us
 
 import "github.com/rannoch/cldr"
 

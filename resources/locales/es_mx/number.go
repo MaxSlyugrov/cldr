@@ -1,4 +1,4 @@
-package es
+package es_mx
 
 import "github.com/rannoch/cldr"
 
