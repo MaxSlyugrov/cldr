@@ -1,6 +1,6 @@
 package nl_BQ
 
-import "github.com/theplant/cldr"
+import "github.com/rannoch/cldr"
 
 var Locale = &cldr.Locale{
 	Locale: "nl_BQ",

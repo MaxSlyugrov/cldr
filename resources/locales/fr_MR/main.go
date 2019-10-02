@@ -1,6 +1,6 @@
 package fr_MR
 
-import "github.com/theplant/cldr"
+import "github.com/rannoch/cldr"
 
 var Locale = &cldr.Locale{
 	Locale: "fr_MR",

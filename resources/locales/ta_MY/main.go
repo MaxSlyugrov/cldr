@@ -1,6 +1,6 @@
 package ta_MY
 
-import "github.com/theplant/cldr"
+import "github.com/rannoch/cldr"
 
 var Locale = &cldr.Locale{
 	Locale: "ta_MY",

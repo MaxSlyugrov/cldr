@@ -1,6 +1,6 @@
 package cy
 
-import "github.com/theplant/cldr"
+import "github.com/rannoch/cldr"
 
 var Locale = &cldr.Locale{
 	Locale: "cy",

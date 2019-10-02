@@ -1,6 +1,6 @@
 package si
 
-import "github.com/theplant/cldr"
+import "github.com/rannoch/cldr"
 
 var currencies = []cldr.Currency{
 	{Currency: "AED", DisplayName: "එක්සත් අරාබි එමිරේට්ස් ඩිරාම්", Symbol: "AED"},

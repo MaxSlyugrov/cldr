@@ -3,9 +3,9 @@ package cldr_test
 import (
 	"testing"
 
-	"github.com/theplant/cldr/resources/locales/en"
-	"github.com/theplant/cldr/resources/locales/hi"
-	"github.com/theplant/cldr/resources/locales/uz"
+	"github.com/rannoch/cldr/resources/locales/en"
+	"github.com/rannoch/cldr/resources/locales/hi"
+	"github.com/rannoch/cldr/resources/locales/uz"
 	. "gopkg.in/check.v1"
 )
 

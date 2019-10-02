@@ -1,6 +1,6 @@
 package naq
 
-import "github.com/theplant/cldr"
+import "github.com/rannoch/cldr"
 
 var currencies = []cldr.Currency{
 	{Currency: "AED", DisplayName: "United Arab Emirates Dirham", Symbol: ""},

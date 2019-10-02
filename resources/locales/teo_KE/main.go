@@ -1,6 +1,6 @@
 package teo_KE
 
-import "github.com/theplant/cldr"
+import "github.com/rannoch/cldr"
 
 var Locale = &cldr.Locale{
 	Locale: "teo_KE",

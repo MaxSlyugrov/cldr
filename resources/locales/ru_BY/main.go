@@ -1,6 +1,6 @@
 package ru_BY
 
-import "github.com/theplant/cldr"
+import "github.com/rannoch/cldr"
 
 var Locale = &cldr.Locale{
 	Locale: "ru_BY",

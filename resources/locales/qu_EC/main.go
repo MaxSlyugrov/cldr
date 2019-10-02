@@ -1,6 +1,6 @@
 package qu_EC
 
-import "github.com/theplant/cldr"
+import "github.com/rannoch/cldr"
 
 var Locale = &cldr.Locale{
 	Locale: "qu_EC",

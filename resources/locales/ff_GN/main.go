@@ -1,6 +1,6 @@
 package ff_GN
 
-import "github.com/theplant/cldr"
+import "github.com/rannoch/cldr"
 
 var Locale = &cldr.Locale{
 	Locale: "ff_GN",

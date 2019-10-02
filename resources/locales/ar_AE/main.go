@@ -1,6 +1,6 @@
 package ar_AE
 
-import "github.com/theplant/cldr"
+import "github.com/rannoch/cldr"
 
 var Locale = &cldr.Locale{
 	Locale: "ar_AE",

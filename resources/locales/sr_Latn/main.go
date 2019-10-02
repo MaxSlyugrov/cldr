@@ -1,6 +1,6 @@
 package sr_Latn
 
-import "github.com/theplant/cldr"
+import "github.com/rannoch/cldr"
 
 var Locale = &cldr.Locale{
 	Locale: "sr_Latn",

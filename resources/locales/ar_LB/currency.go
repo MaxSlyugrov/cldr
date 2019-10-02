@@ -1,6 +1,6 @@
 package ar_LB
 
-import "github.com/theplant/cldr"
+import "github.com/rannoch/cldr"
 
 var currencies = []cldr.Currency{
 	{Currency: "SDG", DisplayName: "", Symbol: "SDG"},

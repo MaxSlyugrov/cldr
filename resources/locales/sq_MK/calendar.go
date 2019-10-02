@@ -1,5 +1,5 @@
 package sq_MK
 
-import "github.com/theplant/cldr"
+import "github.com/rannoch/cldr"
 
 var calendar = cldr.Calendar{}

@@ -1,6 +1,6 @@
 package nmg
 
-import "github.com/theplant/cldr"
+import "github.com/rannoch/cldr"
 
 var (
 	symbols = cldr.Symbols{Decimal: ",", Group: "\u00a0", Negative: "", Percent: "", PerMille: ""}

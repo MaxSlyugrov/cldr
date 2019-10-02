@@ -1,6 +1,6 @@
 package eo
 
-import "github.com/theplant/cldr"
+import "github.com/rannoch/cldr"
 
 var calendar = cldr.Calendar{
 	Formats: cldr.CalendarFormats{

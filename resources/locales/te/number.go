@@ -1,6 +1,6 @@
 package te
 
-import "github.com/theplant/cldr"
+import "github.com/rannoch/cldr"
 
 var (
 	symbols = cldr.Symbols{Decimal: ".", Group: ",", Negative: "-", Percent: "%", PerMille: "‰"}

@@ -1,6 +1,6 @@
 package gd
 
-import "github.com/theplant/cldr"
+import "github.com/rannoch/cldr"
 
 var currencies = []cldr.Currency{
 	{Currency: "ADP", DisplayName: "Peseta Andorrach", Symbol: "ADP"},

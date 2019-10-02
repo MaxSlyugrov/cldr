@@ -1,6 +1,6 @@
 package chr
 
-import "github.com/theplant/cldr"
+import "github.com/rannoch/cldr"
 
 var currencies = []cldr.Currency{
 	{Currency: "BRL", DisplayName: "ᏆᏏᎵᎢ ᎠᏕᎳ", Symbol: ""},

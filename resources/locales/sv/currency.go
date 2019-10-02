@@ -1,6 +1,6 @@
 package sv
 
-import "github.com/theplant/cldr"
+import "github.com/rannoch/cldr"
 
 var currencies = []cldr.Currency{
 	{Currency: "ADP", DisplayName: "andorransk peseta", Symbol: ""},

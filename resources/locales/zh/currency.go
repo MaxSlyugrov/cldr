@@ -1,6 +1,6 @@
 package zh
 
-import "github.com/theplant/cldr"
+import "github.com/rannoch/cldr"
 
 var currencies = []cldr.Currency{
 	{Currency: "ADP", DisplayName: "安道尔比塞塔", Symbol: "ADP"},

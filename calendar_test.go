@@ -3,10 +3,10 @@ package cldr_test
 import (
 	"time"
 
-	_ "github.com/theplant/cldr/resources/locales"
+	_ "github.com/rannoch/cldr/resources/locales"
 	. "gopkg.in/check.v1"
 
-	"github.com/theplant/cldr"
+	"github.com/rannoch/cldr"
 )
 
 var (

@@ -3,8 +3,8 @@ package cldr_test
 import (
 	"html/template"
 
-	"github.com/theplant/cldr"
-	_ "github.com/theplant/cldr/resources/locales/en"
+	"github.com/rannoch/cldr"
+	_ "github.com/rannoch/cldr/resources/locales/en"
 
 	"testing"
 )

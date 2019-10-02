@@ -1,6 +1,6 @@
 package uz_Arab
 
-import "github.com/theplant/cldr"
+import "github.com/rannoch/cldr"
 
 var Locale = &cldr.Locale{
 	Locale: "uz_Arab",

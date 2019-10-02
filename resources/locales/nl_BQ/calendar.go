@@ -1,5 +1,5 @@
 package nl_BQ
 
-import "github.com/theplant/cldr"
+import "github.com/rannoch/cldr"
 
 var calendar = cldr.Calendar{}

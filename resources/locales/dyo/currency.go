@@ -1,6 +1,6 @@
 package dyo
 
-import "github.com/theplant/cldr"
+import "github.com/rannoch/cldr"
 
 var currencies = []cldr.Currency{
 	{Currency: "AOA", DisplayName: "kwanza yati Angola", Symbol: ""},

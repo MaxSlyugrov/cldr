@@ -1,6 +1,6 @@
 package pt_MO
 
-import "github.com/theplant/cldr"
+import "github.com/rannoch/cldr"
 
 var Locale = &cldr.Locale{
 	Locale: "pt_MO",

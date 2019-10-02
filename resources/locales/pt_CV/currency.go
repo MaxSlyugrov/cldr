@@ -1,6 +1,6 @@
 package pt_CV
 
-import "github.com/theplant/cldr"
+import "github.com/rannoch/cldr"
 
 var currencies = []cldr.Currency{
 	{Currency: "CVE", DisplayName: "", Symbol: "\u200b"},

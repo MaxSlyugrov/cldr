@@ -1,6 +1,6 @@
 package en_KY
 
-import "github.com/theplant/cldr"
+import "github.com/rannoch/cldr"
 
 var (
 	symbols = cldr.Symbols{}

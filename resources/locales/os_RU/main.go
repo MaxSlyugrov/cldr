@@ -1,6 +1,6 @@
 package os_RU
 
-import "github.com/theplant/cldr"
+import "github.com/rannoch/cldr"
 
 var Locale = &cldr.Locale{
 	Locale: "os_RU",

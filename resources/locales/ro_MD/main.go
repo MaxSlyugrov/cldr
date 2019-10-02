@@ -1,6 +1,6 @@
 package ro_MD
 
-import "github.com/theplant/cldr"
+import "github.com/rannoch/cldr"
 
 var Locale = &cldr.Locale{
 	Locale: "ro_MD",

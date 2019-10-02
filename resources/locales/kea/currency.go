@@ -1,6 +1,6 @@
 package kea
 
-import "github.com/theplant/cldr"
+import "github.com/rannoch/cldr"
 
 var currencies = []cldr.Currency{
 	{Currency: "AED", DisplayName: "Diren di Emiradus Arabi Unidu", Symbol: "AED"},
