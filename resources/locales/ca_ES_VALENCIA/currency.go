@@ -1,6 +1,6 @@
 package ca_ES_VALENCIA
 
-import "github.com/rannoch/cldr"
+import "github.com/MaxSlyugrov/cldr"
 
 var currencies = []cldr.Currency{
 	{Currency: "AFA", DisplayName: "afgani afganés (1927–2002)", Symbol: ""},

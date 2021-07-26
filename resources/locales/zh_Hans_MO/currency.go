@@ -1,6 +1,6 @@
 package zh_Hans_MO
 
-import "github.com/rannoch/cldr"
+import "github.com/MaxSlyugrov/cldr"
 
 var currencies = []cldr.Currency{
 	{Currency: "ANG", DisplayName: "荷兰安的列斯盾", Symbol: ""},

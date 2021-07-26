@@ -1,6 +1,6 @@
 package lo
 
-import "github.com/rannoch/cldr"
+import "github.com/MaxSlyugrov/cldr"
 
 var currencies = []cldr.Currency{
 	{Currency: "ADP", DisplayName: "ເປເຊຕາ ອັນໂດລາ", Symbol: ""},

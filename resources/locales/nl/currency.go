@@ -1,6 +1,6 @@
 package nl
 
-import "github.com/rannoch/cldr"
+import "github.com/MaxSlyugrov/cldr"
 
 var currencies = []cldr.Currency{
 	{Currency: "ADP", DisplayName: "Andorrese peseta", Symbol: "ADP"},

@@ -1,6 +1,6 @@
 package lu
 
-import "github.com/rannoch/cldr"
+import "github.com/MaxSlyugrov/cldr"
 
 var currencies = []cldr.Currency{
 	{Currency: "AED", DisplayName: "Ndiriha wa Lemila alabu", Symbol: ""},

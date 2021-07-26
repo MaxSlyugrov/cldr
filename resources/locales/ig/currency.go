@@ -1,6 +1,6 @@
 package ig
 
-import "github.com/rannoch/cldr"
+import "github.com/MaxSlyugrov/cldr"
 
 var currencies = []cldr.Currency{
 	{Currency: "CVE", DisplayName: "Escudo Caboverdiano", Symbol: ""},

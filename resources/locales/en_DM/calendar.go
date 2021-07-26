@@ -1,5 +1,5 @@
 package en_DM
 
-import "github.com/rannoch/cldr"
+import "github.com/MaxSlyugrov/cldr"
 
 var calendar = cldr.Calendar{}

@@ -1,6 +1,6 @@
 package lag
 
-import "github.com/rannoch/cldr"
+import "github.com/MaxSlyugrov/cldr"
 
 var currencies = []cldr.Currency{
 	{Currency: "AED", DisplayName: "Diriháamu ya Ʉtemi wa Kɨaráabu", Symbol: ""},

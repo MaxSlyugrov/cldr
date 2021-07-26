@@ -1,6 +1,6 @@
 package ky
 
-import "github.com/rannoch/cldr"
+import "github.com/MaxSlyugrov/cldr"
 
 var Locale = &cldr.Locale{
 	Locale: "ky",

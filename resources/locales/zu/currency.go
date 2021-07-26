@@ -1,6 +1,6 @@
 package zu
 
-import "github.com/rannoch/cldr"
+import "github.com/MaxSlyugrov/cldr"
 
 var currencies = []cldr.Currency{
 	{Currency: "AED", DisplayName: "i-Dirham yase-United Arab Emirates", Symbol: ""},

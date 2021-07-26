@@ -1,6 +1,6 @@
 package yav
 
-import "github.com/rannoch/cldr"
+import "github.com/MaxSlyugrov/cldr"
 
 var currencies = []cldr.Currency{
 	{Currency: "AOA", DisplayName: "kuansa wu angolá", Symbol: ""},

@@ -1,6 +1,6 @@
 package ti
 
-import "github.com/rannoch/cldr"
+import "github.com/MaxSlyugrov/cldr"
 
 var currencies = []cldr.Currency{
 	{Currency: "BRL", DisplayName: "የብራዚል ሪል", Symbol: ""},

@@ -1,6 +1,6 @@
 package kam
 
-import "github.com/rannoch/cldr"
+import "github.com/MaxSlyugrov/cldr"
 
 var currencies = []cldr.Currency{
 	{Currency: "AED", DisplayName: "Dirham ya Falme za Kiarabu", Symbol: ""},

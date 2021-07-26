@@ -1,6 +1,6 @@
 package twq
 
-import "github.com/rannoch/cldr"
+import "github.com/MaxSlyugrov/cldr"
 
 var currencies = []cldr.Currency{
 	{Currency: "AED", DisplayName: "Laaraw Immaara Margantey Dirham", Symbol: ""},

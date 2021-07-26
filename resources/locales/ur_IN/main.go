@@ -1,6 +1,6 @@
 package ur_IN
 
-import "github.com/rannoch/cldr"
+import "github.com/MaxSlyugrov/cldr"
 
 var Locale = &cldr.Locale{
 	Locale: "ur_IN",

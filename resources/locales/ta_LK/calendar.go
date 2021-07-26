@@ -1,5 +1,5 @@
 package ta_LK
 
-import "github.com/rannoch/cldr"
+import "github.com/MaxSlyugrov/cldr"
 
 var calendar = cldr.Calendar{}

@@ -1,6 +1,6 @@
 package km
 
-import "github.com/rannoch/cldr"
+import "github.com/MaxSlyugrov/cldr"
 
 var currencies = []cldr.Currency{
 	{Currency: "AED", DisplayName: "ឌៀរហាំ\u200bអេមីរ៉ាតអារ៉ាប់រួម", Symbol: "AED"},

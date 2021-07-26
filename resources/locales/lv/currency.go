@@ -1,6 +1,6 @@
 package lv
 
-import "github.com/rannoch/cldr"
+import "github.com/MaxSlyugrov/cldr"
 
 var currencies = []cldr.Currency{
 	{Currency: "AED", DisplayName: "Apvienoto Arābu Emirātu dirhēms", Symbol: "AED"},

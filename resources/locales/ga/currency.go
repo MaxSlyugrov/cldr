@@ -1,6 +1,6 @@
 package ga
 
-import "github.com/rannoch/cldr"
+import "github.com/MaxSlyugrov/cldr"
 
 var currencies = []cldr.Currency{
 	{Currency: "ADP", DisplayName: "Peseta Andóra", Symbol: "ADP"},

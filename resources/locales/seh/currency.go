@@ -1,6 +1,6 @@
 package seh
 
-import "github.com/rannoch/cldr"
+import "github.com/MaxSlyugrov/cldr"
 
 var currencies = []cldr.Currency{
 	{Currency: "AED", DisplayName: "Dirém dos Emirados Árabes Unidos", Symbol: ""},

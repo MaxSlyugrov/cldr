@@ -1,6 +1,6 @@
 package en_US_POSIX
 
-import "github.com/rannoch/cldr"
+import "github.com/MaxSlyugrov/cldr"
 
 var Locale = &cldr.Locale{
 	Locale: "en_US_POSIX",

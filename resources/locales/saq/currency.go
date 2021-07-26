@@ -1,6 +1,6 @@
 package saq
 
-import "github.com/rannoch/cldr"
+import "github.com/MaxSlyugrov/cldr"
 
 var currencies = []cldr.Currency{
 	{Currency: "AED", DisplayName: "Njilingi eel Falme za Kiarabu", Symbol: ""},

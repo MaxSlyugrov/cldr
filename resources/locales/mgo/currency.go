@@ -1,6 +1,6 @@
 package mgo
 
-import "github.com/rannoch/cldr"
+import "github.com/MaxSlyugrov/cldr"
 
 var currencies = []cldr.Currency{
 	{Currency: "XAF", DisplayName: "shirè", Symbol: "FCFA"},

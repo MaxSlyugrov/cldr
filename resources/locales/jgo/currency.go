@@ -1,6 +1,6 @@
 package jgo
 
-import "github.com/rannoch/cldr"
+import "github.com/MaxSlyugrov/cldr"
 
 var currencies = []cldr.Currency{
 	{Currency: "CAD", DisplayName: "Ndɔ́la-Kanandâ", Symbol: ""},

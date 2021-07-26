@@ -1,6 +1,6 @@
 package fur
 
-import "github.com/rannoch/cldr"
+import "github.com/MaxSlyugrov/cldr"
 
 var currencies = []cldr.Currency{
 	{Currency: "AMD", DisplayName: "Dram armen", Symbol: ""},

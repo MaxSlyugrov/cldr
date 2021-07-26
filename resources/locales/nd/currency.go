@@ -1,6 +1,6 @@
 package nd
 
-import "github.com/rannoch/cldr"
+import "github.com/MaxSlyugrov/cldr"
 
 var currencies = []cldr.Currency{
 	{Currency: "AED", DisplayName: "Dola laseArab", Symbol: ""},

@@ -1,6 +1,6 @@
 package qu_BO
 
-import "github.com/rannoch/cldr"
+import "github.com/MaxSlyugrov/cldr"
 
 var Locale = &cldr.Locale{
 	Locale: "qu_BO",

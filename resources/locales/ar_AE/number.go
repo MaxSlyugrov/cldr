@@ -1,6 +1,6 @@
 package ar_AE
 
-import "github.com/rannoch/cldr"
+import "github.com/MaxSlyugrov/cldr"
 
 var (
 	symbols = cldr.Symbols{}

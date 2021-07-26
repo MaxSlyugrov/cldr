@@ -1,6 +1,6 @@
 package es_US
 
-import "github.com/rannoch/cldr"
+import "github.com/MaxSlyugrov/cldr"
 
 var currencies = []cldr.Currency{
 	{Currency: "JPY", DisplayName: "", Symbol: "¥"},

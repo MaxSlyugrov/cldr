@@ -1,6 +1,6 @@
 package tr
 
-import "github.com/rannoch/cldr"
+import "github.com/MaxSlyugrov/cldr"
 
 var currencies = []cldr.Currency{
 	{Currency: "ADP", DisplayName: "Andorra Pezetası", Symbol: "ADP"},

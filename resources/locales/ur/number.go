@@ -1,6 +1,6 @@
 package ur
 
-import "github.com/rannoch/cldr"
+import "github.com/MaxSlyugrov/cldr"
 
 var (
 	symbols = cldr.Symbols{Decimal: ".", Group: ",", Negative: "\u200e-\u200e", Percent: "%", PerMille: "‰"}

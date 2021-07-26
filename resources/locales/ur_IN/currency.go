@@ -1,6 +1,6 @@
 package ur_IN
 
-import "github.com/rannoch/cldr"
+import "github.com/MaxSlyugrov/cldr"
 
 var currencies = []cldr.Currency{
 	{Currency: "CRC", DisplayName: "کوسٹا ریکا کولون", Symbol: ""},

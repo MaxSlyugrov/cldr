@@ -1,6 +1,6 @@
 package bn
 
-import "github.com/rannoch/cldr"
+import "github.com/MaxSlyugrov/cldr"
 
 var currencies = []cldr.Currency{
 	{Currency: "ADP", DisplayName: "এ্যান্ডোরান পেসেতা", Symbol: ""},

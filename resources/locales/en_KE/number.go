@@ -1,6 +1,6 @@
 package en_KE
 
-import "github.com/rannoch/cldr"
+import "github.com/MaxSlyugrov/cldr"
 
 var (
 	symbols = cldr.Symbols{}

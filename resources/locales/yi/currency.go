@@ -1,6 +1,6 @@
 package yi
 
-import "github.com/rannoch/cldr"
+import "github.com/MaxSlyugrov/cldr"
 
 var currencies = []cldr.Currency{
 	{Currency: "BZD", DisplayName: "בעליז דאלאַר", Symbol: ""},

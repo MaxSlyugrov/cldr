@@ -1,6 +1,6 @@
 package ta
 
-import "github.com/rannoch/cldr"
+import "github.com/MaxSlyugrov/cldr"
 
 var calendar = cldr.Calendar{
 	Formats: cldr.CalendarFormats{

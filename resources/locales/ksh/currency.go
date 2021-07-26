@@ -1,6 +1,6 @@
 package ksh
 
-import "github.com/rannoch/cldr"
+import "github.com/MaxSlyugrov/cldr"
 
 var currencies = []cldr.Currency{
 	{Currency: "AED", DisplayName: "de vereineschte arraabesche Emiraate ier Dirham", Symbol: ""},

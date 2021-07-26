@@ -1,6 +1,6 @@
 package my
 
-import "github.com/rannoch/cldr"
+import "github.com/MaxSlyugrov/cldr"
 
 var currencies = []cldr.Currency{
 	{Currency: "AED", DisplayName: "အာရပ်ဒူဟမ်း", Symbol: ""},

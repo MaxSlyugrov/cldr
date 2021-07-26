@@ -1,6 +1,6 @@
 package en_BS
 
-import "github.com/rannoch/cldr"
+import "github.com/MaxSlyugrov/cldr"
 
 var currencies = []cldr.Currency{
 	{Currency: "BSD", DisplayName: "", Symbol: "$"},
