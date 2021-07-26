@@ -1,5 +1,5 @@
 package pt_MZ
 
-import "github.com/rannoch/cldr"
+import "github.com/MaxSlyugrov/cldr"
 
 var calendar = cldr.Calendar{}

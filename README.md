@@ -12,8 +12,8 @@ cldr embeds CLDR data in pure go and it doesn't import all those locale data by 
 package main
 
 import (
-	"github.com/rannoch/cldr"
-	_ "github.com/rannoch/cldr/resources/locales/en"
+	"github.com/MaxSlyugrov/cldr"
+	_ "github.com/MaxSlyugrov/cldr/resources/locales/en"
 )
 
 func main() {
@@ -41,12 +41,12 @@ cldr.RegisterLocale(Locale{...})
 // solution 1
 // using the same locale name
 
-import _ github.com/rannoch/cldr/resources/locales/en
+import _ github.com/MaxSlyugrov/cldr/resources/locales/en
 cldr.RegisterLocale(Locale{Locale: "en"})
 
 // solution 2
 // update the exported locale directly
 
-import github.com/rannoch/cldr/resources/locales/en
+import github.com/MaxSlyugrov/cldr/resources/locales/en
 en.Locale.PluralRule = "2A"
 ```

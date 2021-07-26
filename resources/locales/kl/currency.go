@@ -1,6 +1,6 @@
 package kl
 
-import "github.com/rannoch/cldr"
+import "github.com/MaxSlyugrov/cldr"
 
 var currencies = []cldr.Currency{
 	{Currency: "DKK", DisplayName: "danmarkimut koruuni", Symbol: "kr."},

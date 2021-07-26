@@ -1,6 +1,6 @@
 package ar_SS
 
-import "github.com/rannoch/cldr"
+import "github.com/MaxSlyugrov/cldr"
 
 var currencies = []cldr.Currency{
 	{Currency: "GBP", DisplayName: "", Symbol: "GB£"},

@@ -1,6 +1,6 @@
 package pt_MZ
 
-import "github.com/rannoch/cldr"
+import "github.com/MaxSlyugrov/cldr"
 
 var Locale = &cldr.Locale{
 	Locale: "pt_MZ",

@@ -1,6 +1,6 @@
 package ak
 
-import "github.com/rannoch/cldr"
+import "github.com/MaxSlyugrov/cldr"
 
 var currencies = []cldr.Currency{
 	{Currency: "AED", DisplayName: "Ɛmirete Arab Nkabɔmu Deram", Symbol: ""},
